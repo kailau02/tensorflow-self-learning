@@ -7,36 +7,35 @@ Below is a list of projects I plan to complete within this repository:
 **Regression Projects:**
 
 1. [Housing Price Prediction](https://colab.research.google.com/drive/1pOWrMxB9AxT8pVWg5BZ8UH0BtpL3XewH?usp=sharing)
-2. Stock Price Prediction
 
 **Classification Projects:**
 
-3. Image Classification
-4. Sentiment Analysis
-5. Spam Email Classifier
+2. Image Classification
+3. Sentiment Analysis
+4. Spam Email Classifier
 
 **Convolutional Neural Network (CNN) Projects:**
 
-6. Dog vs. Cat Classifier
-7. Fashion-MNIST Image Classification
-8. Medical Image Classification
+5. Dog vs. Cat Classifier
+6. Fashion-MNIST Image Classification
+7. Medical Image Classification
 
 **Recurrent Neural Network (RNN) Projects:**
 
-9. Language Translation
-10. Text Generation
+8. Language Translation
+9. Text Generation
 
 **Generative Adversarial Network (GAN) Projects:**
 
-11. Generating Artistic Images
-12. Face Generation
+10. Generating Artistic Images
+11. Face Generation
 
 **Unsupervised Learning Projects:**
 
-13. Anomaly Detection
-14. Image Segmentation
+12. Anomaly Detection
+13. Image Segmentation
 
 **Reinforcement Learning Projects:**
 
-15. Game Playing AI
-16. Robotics Control
+14. Game Playing AI
+15. Robotics Control
