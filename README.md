@@ -10,7 +10,7 @@ Below is a list of projects I plan to complete within this repository:
 
 **Classification Projects:**
 
-2. Image Classification
+2. MNIST Basic Image Classification
 3. Sentiment Analysis
 4. Spam Email Classifier
 
