@@ -6,7 +6,7 @@ Below is a list of projects I plan to complete within this repository:
 
 **Regression Projects:**
 
-1. Housing Price Prediction
+1. [Housing Price Prediction](https://colab.research.google.com/drive/1pOWrMxB9AxT8pVWg5BZ8UH0BtpL3XewH?usp=sharing)
 2. Stock Price Prediction
 
 **Classification Projects:**
