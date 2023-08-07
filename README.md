@@ -16,7 +16,7 @@ Multiclass Classification:
   
 Image Classification:
 * Dog vs. Cat Classifier: Create a model to differentiate between images of dogs and cats.
-* Fruit Recognition: Build a model to classify images of different fruits, such as apples, oranges, and bananas.
+* [Fruit Recognition](https://colab.research.google.com/drive/1-ar51RuiHMtSPlY-xL69oCcrIBm1VLke?usp=sharing): Build a model to classify images of different fruits, such as apples, oranges, and bananas.
 
 Natural Language Processing (NLP):
 * Text Generation: Train a language model to generate realistic text passages.
