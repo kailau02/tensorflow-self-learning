@@ -8,7 +8,7 @@ Regression Problems:
 
 Binary Classification:
 * Email Spam Detection: Build a model to classify emails as spam or not spam.
-* Sentiment Analysis: Develop a system to determine the sentiment (positive/negative) of a text review or tweet.
+* [Sentiment Analysis](https://colab.research.google.com/drive/1qhB1VQHj_l2GwVMIK_NHoBfqA0EHZLqo?usp=sharing): Develop a system to determine the sentiment (positive/negative) of a text review or tweet.
 
 Multiclass Classification:
 * [Handwritten Digit Recognition](https://colab.research.google.com/drive/1731Fyk1fUM91pziB-9RSYHGPjoYqUCQJ?usp=sharing): Train a model to recognize handwritten digits (0-9) from the MNIST dataset.
